@@ -1,0 +1,43 @@
+header{
+  transform: translateY(-2.3rem);
+  text-align: center;
+  position: fixed;
+  height: 4rem;
+  width:8rem;
+  line-height: 5.5rem;
+  left:0px;
+  top:0px;
+  background-color: navajowhite;
+  box-shadow: 0px 0px 15px black;
+  border-radius: 50%;
+  border: 5px solid #5b4a08;
+}
+h1{
+  text-align: center;
+  font-size: 48px;
+}
+img{
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 400px;
+}
+#contents{
+  display: block;
+  margin: auto;
+  padding: 1rem;
+  margin-top: 2rem;
+  width: max(70%, 400px);
+  border: 6px solid black;
+  text-align: left;
+  border-radius: 20px;
+  background-color: white;
+  overflow: hidden;
+}
+body{
+  background-color: navajowhite;
+  height: fit-content;
+}
+h2, h3{
+font-size: 36px;
+}
