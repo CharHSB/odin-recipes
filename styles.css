@@ -3,11 +3,12 @@ h1{
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   text-decoration: underline;
-  font-size: 48px;
+  font-size: 3rem;
   color: #5b4a08;
 }
 body{
   background-color: navajowhite;
+  height: 100vh;
 }
 .mainbody{
   background-color: rgb(255, 215, 0);
@@ -18,13 +19,12 @@ body{
   display: block;
   margin: auto;
   border-radius: 20px;
-  width: auto;
+  width: min(70%, 500px);
   box-shadow: inset;
 }
 #contents{
   margin-top: 2rem;
   height: auto;
-  width: auto;
   border: 1px solid black;
   text-align: left;
   border-radius: 25px;

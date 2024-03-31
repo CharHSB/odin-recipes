@@ -13,8 +13,11 @@ header{
   border: 5px solid #5b4a08;
 }
 h1{
+  font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  font-size: 48px;
+  text-decoration: underline;
+  font-size: 3rem;
+  color: #5b4a08;
 }
 img{
   display: block;
